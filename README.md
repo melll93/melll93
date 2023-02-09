@@ -57,8 +57,7 @@ Here are some ideas to get you started:
   <!--<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">-->
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu)](https://solved.ac/yemeltu/)
-
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu)](https://solved.ac/yemeltu/) -->
 <br>
 <p align="center">
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu" />&nbsp;&nbsp;
