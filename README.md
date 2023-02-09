@@ -22,12 +22,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <br>
 
-
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> -->
   <br>
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -57,8 +56,8 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=melll93&show_icons=true&theme=dracula" />&nbsp;&nbsp;
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=melll93&show_icons=true&theme=dracula" />&nbsp;&nbsp;
 </p>
   
 <br>
