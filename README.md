@@ -45,18 +45,21 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-<!--   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu)](https://solved.ac/yemeltu/) -->
-
+  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <br>
+</p>
   <!--<img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
   <!--<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> -->
   <!--<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">-->
   <!--<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">-->
-  <br>
-</p>
+  
 
 <br>
 <p align="center">
+  <!--   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu)](https://solved.ac/yemeltu/) -->
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu" />&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=melll93&show_icons=true&theme=dracula" />
 </p>
