@@ -64,8 +64,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">  CONTACT  </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://melll.tistory.com"/>&nbsp
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyeon.o_oy/"/>
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://melll.tistory.com">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https:https://www.instagram.com/hyeon.o_oy/">
+<!--   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyeon.o_oy/"/> -->
 </p>
 <br>
 
