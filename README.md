@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">🇰🇷</h1>
 <br><br>
 
+<h3 align="center">  TECH STACK  </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
 
 
 
-
+<h3 align="center">  ENVIRONMENT  </h3>
   <br>
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
   <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
