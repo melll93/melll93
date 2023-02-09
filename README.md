@@ -39,10 +39,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">  
   <br>
-
+</p>
 
 
 <h3 align="center">  ENVIRONMENT  </h3>
+<p align="center">
   <br>
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
   <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
