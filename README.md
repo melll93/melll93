@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=melll&fontSize=70&animation=twinkling) -->
 
-<p align="center">🇰🇷🇬</p>
+<p align="center">🇰🇷</p>
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -55,11 +56,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-
-<!-- <h3 align="center"> Blog </h3>
-  
-<br> -->
-
+<br>
 
 <h3 align="center">  CONTACT  </h3>
 <p align="center">
