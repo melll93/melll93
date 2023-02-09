@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Learnung,&nbsp;Running...&fontSize=70&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Learnung,&nbsp;Running...&fontSize=70&animation=twinkling) -->
 
 <h1 align="center">🇰🇷</h1>
 <br><br>
@@ -26,12 +26,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <br>
   
@@ -57,20 +57,19 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=melll93&show_icons=true&theme=dracula" />&nbsp;&nbsp;
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=melll93&show_icons=true&theme=dracula" />&nbsp;&nbsp;
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu" />
 </p>
-(http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu)](https://solved.ac/yemeltu/) -->
   
 <br>
 
 <h3 align="center">  CONTACT  </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://melll.tistory.com"/>&nbsp
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyeon.o_oy/"/>
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://melll.tistory.com"/>&nbsp
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyeon.o_oy/"/>
 </p>
 <br>
 
 <p align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmelll93&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmelll93&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
 </p>
