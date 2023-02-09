@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=melll&fontSize=70&animation=twinkling) -->
 
-<h3 align="center">🇰🇷</h3>
+<h1 align="center">🇰🇷</h1>
 <br><br>
 
 <p align="center">
