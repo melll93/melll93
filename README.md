@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 <br>
 <!-- ![melll's GitHub stats](https://github-readme-stats.vercel.app/api?username=melll93&show_icons=true&theme=dracula) -->
-
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=melll93&show_icons=true&theme=dracula" />
-
+</p>
 <br>
 
 <h3 align="center">  CONTACT  </h3>
