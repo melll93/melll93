@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=melll&fontSize=70&animation=twinkling) -->
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Learnung, Running...&fontSize=70&animation=twinkling)
 
 <h1 align="center">🇰🇷</h1>
 <br><br>
