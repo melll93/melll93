@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu)](https://solved.ac/yemeltu/) -->
 <br>
 <p align="center">
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu" />&nbsp;&nbsp;
+<!--   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yemeltu" />&nbsp;&nbsp; -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=melll93&show_icons=true&theme=dracula" />
 </p>
   
